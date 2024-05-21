@@ -1,0 +1,14 @@
+ScanChef/
+  ├── android/
+  ├── ios/
+  ├── src/
+  │   ├── components/
+  │   ├── navigation/
+  │   ├── redux/
+  │   ├── screens/
+  │   ├── services/
+  │   ├── styles/
+  │   └── App.js
+  ├── App.js
+  ├── package.json
+  └── ...
